@@ -1,5 +1,5 @@
 # 2019 Stack Overflow Survey Data Linear Regression Model Project
-This project aims to answer the question, "do different background of developers make an impact on their salary?" 
+This project aims to answer the question, "do different backgrounds of developers make an impact on their salary?" 
 
 ## Contents of this project repository:
 
